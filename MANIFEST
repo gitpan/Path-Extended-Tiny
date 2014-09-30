@@ -26,6 +26,7 @@ t/30_directory/recurse.t
 t/30_directory/rmdir.t
 t/30_directory/seek.t
 t/30_directory/subsumes.t
+t/90_regression/child_with_abs_path.t
 xt/99_pod.t
 META.yml                                 Module YAML meta-data (added by MakeMaker)
 META.json                                Module JSON meta-data (added by MakeMaker)
