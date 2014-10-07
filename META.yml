@@ -24,8 +24,9 @@ requires:
   File::Copy::Recursive: '0'
   File::Find: '0'
   File::Path: '0'
+  IO::Handle: '1.25'
   Path::Tiny: '0.048'
   Text::Glob: '0'
 resources:
   repository: https://github.com/charsbar/Path-Extended-Tiny
-version: '0.03'
+version: '0.04'
