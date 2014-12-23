@@ -9,7 +9,7 @@ build_requires:
 configure_requires:
   ExtUtils::MakeMaker::CPANfile: '0.06'
 dynamic_config: 0
-generated_by: 'ExtUtils::MakeMaker version 6.98, CPAN::Meta::Converter version 2.142060'
+generated_by: 'ExtUtils::MakeMaker version 6.98, CPAN::Meta::Converter version 2.143240'
 license: perl
 meta-spec:
   url: http://module-build.sourceforge.net/META-spec-v1.4.html
@@ -29,4 +29,4 @@ requires:
   Text::Glob: '0'
 resources:
   repository: https://github.com/charsbar/Path-Extended-Tiny
-version: '0.05'
+version: '0.06'
